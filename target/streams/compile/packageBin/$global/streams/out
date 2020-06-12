@@ -1,0 +1,35 @@
+[info] Packaging D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\santander_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	santander$$anonfun$main$9$$anonfun$apply$1.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$9$$anonfun$apply$1.class
+[debug] 	santander$$anonfun$main$6.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$6.class
+[debug] 	santander$$anonfun$main$10.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$10.class
+[debug] 	santander$$anonfun$main$10$$anonfun$apply$2.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$10$$anonfun$apply$2.class
+[debug] 	santander$$typecreator4$1.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$typecreator4$1.class
+[debug] 	santander$$anonfun$main$1.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$1.class
+[debug] 	santander$$anonfun$main$5.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$5.class
+[debug] 	santander$$anonfun$main$9.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$9.class
+[debug] 	santander$.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$.class
+[debug] 	santander$$anonfun$main$3.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$3.class
+[debug] 	santander$$anonfun$main$4.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$4.class
+[debug] 	santander$$typecreator5$1.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$typecreator5$1.class
+[debug] 	santander$$anonfun$main$2.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$2.class
+[debug] 	santander$$anonfun$main$7.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$7.class
+[debug] 	santander$$anonfun$main$8.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander$$anonfun$main$8.class
+[debug] 	santander.class
+[debug] 	  D:\Documents\UTD MS\Academics\Spring 2020\BIG DATA\Project\Santander\target\scala-2.11\classes\santander.class
+[info] Done packaging.
