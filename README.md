@@ -1,4 +1,4 @@
-Santander Customer Transaction Prediction
+# Santander Customer Transaction Prediction
 
 This project is about solving a particular problem posted by Kaggle which involves helping Santander Bank in identifying 
 and predicting customers who could make future transactions with the bank. For this, Decision tree classifier and 
